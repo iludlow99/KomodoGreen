@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace KomdoGreen.BLL
+namespace KomodoGreen.Contracts
 {
     public class Class1
     {
